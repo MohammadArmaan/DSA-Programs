@@ -20,6 +20,6 @@ Welcome to the Data Structures and Algorithms (DSA) repository! This repository 
 
 ## Contributing
 
-Feel free to contribute by adding more programs, improving existing ones, or suggesting enhancements. Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+Feel free to contribute by adding more programs, improving existing ones, or suggesting enhancements. 
 
 Happy coding!
