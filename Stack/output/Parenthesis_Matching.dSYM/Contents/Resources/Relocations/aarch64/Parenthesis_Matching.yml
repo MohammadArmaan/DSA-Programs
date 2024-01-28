@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Stack/output/Parenthesis_Matching'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x0, symBinAddr: 0x100003C6C, symSize: 0x78 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _top, symObjAddr: 0xBC8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x7C, offset: 0x7C, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x0, symBinAddr: 0x100003C6C, symSize: 0x78 }
+  - { offsetInCU: 0xA0, offset: 0xA0, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x78, symBinAddr: 0x100003CE4, symSize: 0x74 }
+  - { offsetInCU: 0xD2, offset: 0xD2, size: 0x8, addend: 0x0, symName: _pop, symObjAddr: 0xEC, symBinAddr: 0x100003D58, symSize: 0x7C }
+  - { offsetInCU: 0x108, offset: 0x108, size: 0x8, addend: 0x0, symName: _isbalanced, symObjAddr: 0x168, symBinAddr: 0x100003DD4, symSize: 0xFC }
+  - { offsetInCU: 0x13E, offset: 0x13E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x264, symBinAddr: 0x100003ED0, symSize: 0x54 }
+...

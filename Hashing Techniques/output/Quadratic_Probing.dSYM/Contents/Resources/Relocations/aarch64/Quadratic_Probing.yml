@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Hashing Techniques/output/Quadratic_Probing'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _hash, symObjAddr: 0x0, symBinAddr: 0x100003CCC, symSize: 0x24 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _hash, symObjAddr: 0x0, symBinAddr: 0x100003CCC, symSize: 0x24 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _probe, symObjAddr: 0x24, symBinAddr: 0x100003CF0, symSize: 0xA4 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0xC8, symBinAddr: 0x100003D94, symSize: 0x6C }
+  - { offsetInCU: 0xFB, offset: 0xFB, size: 0x8, addend: 0x0, symName: _search, symObjAddr: 0x134, symBinAddr: 0x100003E00, symSize: 0xA8 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1DC, symBinAddr: 0x100003EA8, symSize: 0xC0 }
+...

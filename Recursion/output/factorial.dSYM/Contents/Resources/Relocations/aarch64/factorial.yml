@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Recursion/output/factorial'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _fact, symObjAddr: 0x0, symBinAddr: 0x100003DBC, symSize: 0x78 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _fact, symObjAddr: 0x0, symBinAddr: 0x100003DBC, symSize: 0x78 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _ifact, symObjAddr: 0x78, symBinAddr: 0x100003E34, symSize: 0xAC }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x124, symBinAddr: 0x100003EE0, symSize: 0x9C }
+...

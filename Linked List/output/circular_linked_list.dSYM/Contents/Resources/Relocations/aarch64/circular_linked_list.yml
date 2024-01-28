@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Linked List/output/circular_linked_list'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _create, symObjAddr: 0x0, symBinAddr: 0x10000390C, symSize: 0xDC }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _rdisplay, symObjAddr: 0x158, symBinAddr: 0x100003A64, symSize: 0x98 }
+  - { offsetInCU: 0x62, offset: 0x62, size: 0x8, addend: 0x0, symName: _rdisplay.flag, symObjAddr: 0x12AC, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x8D, offset: 0x8D, size: 0x8, addend: 0x0, symName: _head, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0xBC, offset: 0xBC, size: 0x8, addend: 0x0, symName: _create, symObjAddr: 0x0, symBinAddr: 0x10000390C, symSize: 0xDC }
+  - { offsetInCU: 0x118, offset: 0x118, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0xDC, symBinAddr: 0x1000039E8, symSize: 0x7C }
+  - { offsetInCU: 0x13C, offset: 0x13C, size: 0x8, addend: 0x0, symName: _length, symObjAddr: 0x1F0, symBinAddr: 0x100003AFC, symSize: 0x58 }
+  - { offsetInCU: 0x172, offset: 0x172, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0x248, symBinAddr: 0x100003B54, symSize: 0x1AC }
+  - { offsetInCU: 0x1CE, offset: 0x1CE, size: 0x8, addend: 0x0, symName: _delete, symObjAddr: 0x3F4, symBinAddr: 0x100003D00, symSize: 0x1B8 }
+  - { offsetInCU: 0x22E, offset: 0x22E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5AC, symBinAddr: 0x100003EB8, symSize: 0x9C }
+...

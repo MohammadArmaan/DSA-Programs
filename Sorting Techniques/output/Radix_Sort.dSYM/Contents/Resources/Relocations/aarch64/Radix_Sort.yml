@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Sorting Techniques/output/Radix_Sort'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Print, symObjAddr: 0x0, symBinAddr: 0x100003934, symSize: 0xCC }
+  - { offsetInCU: 0x83, offset: 0x83, size: 0x8, addend: 0x0, symName: _Print, symObjAddr: 0x0, symBinAddr: 0x100003934, symSize: 0xCC }
+  - { offsetInCU: 0xDF, offset: 0xDF, size: 0x8, addend: 0x0, symName: _Max, symObjAddr: 0xCC, symBinAddr: 0x100003A00, symSize: 0x88 }
+  - { offsetInCU: 0x13F, offset: 0x13F, size: 0x8, addend: 0x0, symName: _countDigits, symObjAddr: 0x154, symBinAddr: 0x100003A88, symSize: 0x50 }
+  - { offsetInCU: 0x175, offset: 0x175, size: 0x8, addend: 0x0, symName: _initializeBins, symObjAddr: 0x1A4, symBinAddr: 0x100003AD8, symSize: 0x58 }
+  - { offsetInCU: 0x1C3, offset: 0x1C3, size: 0x8, addend: 0x0, symName: _CreateNode, symObjAddr: 0x1FC, symBinAddr: 0x100003B30, symSize: 0x40 }
+  - { offsetInCU: 0x1F9, offset: 0x1F9, size: 0x8, addend: 0x0, symName: _Insert, symObjAddr: 0x23C, symBinAddr: 0x100003B70, symSize: 0xAC }
+  - { offsetInCU: 0x263, offset: 0x263, size: 0x8, addend: 0x0, symName: _Delete, symObjAddr: 0x2E8, symBinAddr: 0x100003C1C, symSize: 0x64 }
+  - { offsetInCU: 0x2B5, offset: 0x2B5, size: 0x8, addend: 0x0, symName: _getBinIndex, symObjAddr: 0x34C, symBinAddr: 0x100003C80, symSize: 0x6C }
+  - { offsetInCU: 0x2EB, offset: 0x2EB, size: 0x8, addend: 0x0, symName: _RadixSort, symObjAddr: 0x3B8, symBinAddr: 0x100003CEC, symSize: 0x178 }
+  - { offsetInCU: 0x3C5, offset: 0x3C5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x530, symBinAddr: 0x100003E64, symSize: 0xA8 }
+...

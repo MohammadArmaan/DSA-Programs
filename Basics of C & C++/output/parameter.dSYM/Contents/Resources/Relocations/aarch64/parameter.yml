@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Basics of C & C++/output/parameter'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z4swapRiS_, symObjAddr: 0x0, symBinAddr: 0x100003EE4, symSize: 0x3C }
+  - { offsetInCU: 0x2C66, offset: 0x2C66, size: 0x8, addend: 0x0, symName: __Z4swapRiS_, symObjAddr: 0x0, symBinAddr: 0x100003EE4, symSize: 0x3C }
+  - { offsetInCU: 0x2CAA, offset: 0x2CAA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C, symBinAddr: 0x100003F20, symSize: 0x6C }
+...

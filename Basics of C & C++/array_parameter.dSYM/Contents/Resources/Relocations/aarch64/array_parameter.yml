@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Basics of C & C++/array_parameter'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z4funci, symObjAddr: 0x0, symBinAddr: 0x100003F34, symSize: 0x30 }
+  - { offsetInCU: 0x2C79, offset: 0x2C79, size: 0x8, addend: 0x0, symName: __Z4funci, symObjAddr: 0x0, symBinAddr: 0x100003F34, symSize: 0x30 }
+  - { offsetInCU: 0x2CB3, offset: 0x2CB3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x30, symBinAddr: 0x100003F64, symSize: 0x38 }
+...

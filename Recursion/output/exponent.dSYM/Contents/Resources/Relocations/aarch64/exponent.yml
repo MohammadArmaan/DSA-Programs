@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Recursion/output/exponent'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _pow1, symObjAddr: 0x0, symBinAddr: 0x100003D4C, symSize: 0x64 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _pow1, symObjAddr: 0x0, symBinAddr: 0x100003D4C, symSize: 0x64 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _pow2, symObjAddr: 0x64, symBinAddr: 0x100003DB0, symSize: 0xC4 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x128, symBinAddr: 0x100003E74, symSize: 0xC4 }
+...

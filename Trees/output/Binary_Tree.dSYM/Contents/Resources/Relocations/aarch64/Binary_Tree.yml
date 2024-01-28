@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Trees/output/Binary_Tree'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _create, symObjAddr: 0x0, symBinAddr: 0x10000389C, symSize: 0x58 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _root, symObjAddr: 0x1510, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x94, offset: 0x94, size: 0x8, addend: 0x0, symName: _create, symObjAddr: 0x0, symBinAddr: 0x10000389C, symSize: 0x58 }
+  - { offsetInCU: 0xC6, offset: 0xC6, size: 0x8, addend: 0x0, symName: _enqueue, symObjAddr: 0x58, symBinAddr: 0x1000038F4, symSize: 0x80 }
+  - { offsetInCU: 0xF8, offset: 0xF8, size: 0x8, addend: 0x0, symName: _dequeue, symObjAddr: 0xD8, symBinAddr: 0x100003974, symSize: 0x80 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x158, symBinAddr: 0x1000039F4, symSize: 0x9C }
+  - { offsetInCU: 0x16F, offset: 0x16F, size: 0x8, addend: 0x0, symName: _isempty, symObjAddr: 0x1F4, symBinAddr: 0x100003A90, symSize: 0x48 }
+  - { offsetInCU: 0x197, offset: 0x197, size: 0x8, addend: 0x0, symName: _isfull, symObjAddr: 0x23C, symBinAddr: 0x100003AD8, symSize: 0x4C }
+  - { offsetInCU: 0x1BF, offset: 0x1BF, size: 0x8, addend: 0x0, symName: _treecreate, symObjAddr: 0x288, symBinAddr: 0x100003B24, symSize: 0x1D4 }
+  - { offsetInCU: 0x20D, offset: 0x20D, size: 0x8, addend: 0x0, symName: _preorder, symObjAddr: 0x45C, symBinAddr: 0x100003CF8, symSize: 0x6C }
+  - { offsetInCU: 0x231, offset: 0x231, size: 0x8, addend: 0x0, symName: _inorder, symObjAddr: 0x4C8, symBinAddr: 0x100003D64, symSize: 0x6C }
+  - { offsetInCU: 0x255, offset: 0x255, size: 0x8, addend: 0x0, symName: _postorder, symObjAddr: 0x534, symBinAddr: 0x100003DD0, symSize: 0x6C }
+  - { offsetInCU: 0x279, offset: 0x279, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5A0, symBinAddr: 0x100003E3C, symSize: 0x90 }
+...

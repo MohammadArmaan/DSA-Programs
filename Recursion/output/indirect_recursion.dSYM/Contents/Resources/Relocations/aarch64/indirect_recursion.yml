@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadarmaan7786/Documents/DSA/Recursion/output/indirect_recursion'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _funcA, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x5C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _funcA, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x5C }
+  - { offsetInCU: 0x65, offset: 0x65, size: 0x8, addend: 0x0, symName: _funcB, symObjAddr: 0x5C, symBinAddr: 0x100003F0C, symSize: 0x60 }
+  - { offsetInCU: 0x89, offset: 0x89, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xBC, symBinAddr: 0x100003F6C, symSize: 0x2C }
+...
