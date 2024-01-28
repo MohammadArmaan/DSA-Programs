@@ -4,19 +4,19 @@ Welcome to the Data Structures and Algorithms (DSA) repository! This repository 
 
 ## Table of Contents
 
-1. [Basics of C & C++](#basics-of-c--c)
-2. [Array](#array)
-3. [Linked List](#linked-list)
-4. [Stack](#stack)
-5. [Queue](#queue)
-6. [Trees](#trees)
-7. [Graphs](#graphs)
-8. [Matrices](#matrices)
-9. [Heap](#heap)
-10. [Hashing Techniques](#hashing-techniques)
-11. [Sorting Techniques](#sorting-techniques)
-12. [Recursion](#recursion)
-13. [Strings](#strings)
+1. Basics of C & C++
+2. Array
+3. Linked List
+4. Stack
+5. Queue
+6. Trees
+7. Graphs
+8. Matrices
+9. Heap
+10. Hashing Techniques
+11. Sorting Techniques
+12. Recursion
+13. Strings
 
 ## Contributing
 
